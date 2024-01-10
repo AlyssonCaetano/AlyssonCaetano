@@ -1,8 +1,8 @@
 ### Olá, O meu nome é Caetano e atualmente estou estudando JavaScript! 👋
 
 - 🔭 Hoje trabalho com front-end.
-- 🌱 Estudando e aprimorando os conhecimentos em JavaScript
-- 🤔 Em busca de um sonho!
+- 🌱 Estudando e aprimorando os conhecimentos em JavaScript.
+- 🤔 Em busca de um sonho! Interesse em Back-End e Front-End
 - 😄 Pronouns: Ele/Dele
 
 
