@@ -1,4 +1,4 @@
-### Olá, O meu nome é Caetano e atualmente estou estudando JavaScript! 👋
+### Olá, O meu nome é Caetano,  atualmente estou estudando JavaScript! 👋
 
 - 🔭 Hoje trabalho com front-end.
 - 🌱 Estudando e aprimorando os conhecimentos em JavaScript.
