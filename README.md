@@ -1,5 +1,4 @@
 # ProgCaetano
-## About me
 
 ### Olá, mundo! 
  O meu nome é Caetano,  atualmente estou me aprimorando no Front! 👋
