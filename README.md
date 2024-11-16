@@ -3,10 +3,10 @@
 ### Olá, mundo! 
  O meu nome é Caetano,  atualmente estou me aprimorando no Front! 👋
 
-- 🔭 Hoje trabalho principalmente com front-end porém estou iniciando meu caminho com python;
+- 🔭 Hoje trabalho principalmente com front-end porém estou iniciando meu caminho com pythone;
 - 🌱 Estudando e aprimorando os conhecimentos em JavaScript e as tecnologias relacionadas;
 - 🤔 Em busca de um sonho! Interesse em Back-End e Front-End;
-- 😄 Pronouns: Ele/Dele
+
 
 
 ## Conecte-se comigo
