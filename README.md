@@ -1,7 +1,7 @@
 # ProgCaetano
 
 ### Olá, mundo! 
- O meu nome é Caetano,  atualmente estou me aprimorando no Front! 👋
+ O meu nome é Caetano,  atualmente cursando ADS e estou aprimorando meus conhecimentos no Front! 👋
 
 - 🔭 Hoje trabalho principalmente com front-end porém estou iniciando meu caminho com Python e Java;
 - 🌱 Estudando e aprimorando os conhecimentos em JavaScript e as tecnologias relacionadas;
