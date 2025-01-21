@@ -1,26 +1,26 @@
-# ProgCaetano
+<h1>👋 &nbsp;Olá, eu sou o Caetano, um desenvolvedor apaixonado pelo que faz!</h1>
 
-### Olá, mundo! 
- O meu nome é Caetano,  atualmente cursando ADS e estou aprimorando meus conhecimentos no Front! 👋
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🔭 Hoje trabalho principalmente com front-end;
-- 🤔 Iciando meu caminho com Python e Java;
-- 🌱 Estudando e aprimorando os conhecimentos em JavaScript e as tecnologias relacionadas;
-- 🤔 Em busca de um sonho! Interesse em Front-End;
-
-
-
-## Conecte-se comigo
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código há 7  anos , quando estudava em um curso de Engenharia, e lá já achava fascinante. Há menos de dois anos decidi aprender como esse mundo funciona e me apaixonei. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+- 💚 &nbsp; Fico feliz em hoje poder tirar um projeto do zero, colcoando minhas idéias em linhas de código.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. (Node, React & React Native).
+- 🏎 &nbsp; Sou apaixonado por atividade física, especialmente por Basquete.
+- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+  
+- ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.https://www.dio.me/users/alyssoncs1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-c-6153b5202)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.developer_/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProgCaetano)
 
+<h2> 🛠 &nbsp;Habilidades</h2>
 
-## Habilidades
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -41,6 +41,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ProgCaetano&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ProgCaetano&repo=progcaetano&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ProgCaetano/progcaetano)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ProgCaetano&repo=progcaetano&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ProgCaetano/progcaetano)
 
 
