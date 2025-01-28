@@ -2,6 +2,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
+- 🚀 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código há 7  anos , quando estudava em um curso de Engenharia, e lá já achava fascinante. Há menos de dois anos decidi aprender como esse mundo funciona e me apaixonei. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 - 💚 &nbsp; Fico feliz em hoje poder tirar um projeto do zero, colcoando minhas idéias em linhas de código.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. (Node, React & React Native).
@@ -36,9 +37,9 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgCaetano&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+![Alysson Caetano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssoncaetano&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ProgCaetano&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alyssoncaetano&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
