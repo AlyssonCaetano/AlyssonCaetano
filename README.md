@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Alysson! </h1>
+<h1>👋 &nbsp;Olá, eu sou Alysson! </h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
