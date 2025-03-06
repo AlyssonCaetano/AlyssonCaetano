@@ -3,11 +3,8 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🚀 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
-- 👨🏻‍💻 &nbsp; Tive meu primeiro contato com linhas de código há 7  anos , quando estudava em um curso de Engenharia, e lá já achava fascinante. Há menos de dois anos decidi aprender como esse mundo funciona e me identifiquei. Desde então, eu decidi que eu queria fazer isso da minha vida.
-- 💚 &nbsp; Fico feliz em hoje poder tirar um projeto do zero, colcoando minhas idéias em linhas de código.
 - 🚀 &nbsp; Atualmente, tenho como foco principal as áreas de desenvolvimento web e mobile. (Node, React & React Native).
-- 🏎 &nbsp; Sou apaixonado por atividade física, especialmente por Basquete.
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 👨🏻‍💻 &nbsp; Tive meu primeiro contato com linhas de código há 7  anos , quando estudava em um curso de Engenharia, e lá já achava fascinante. Há menos de dois anos decidi aprender como esse mundo funciona e me identifiquei. Desde então, eu decidi que eu queria fazer isso da minha vida.
   
 - ## Conecte-se comigo
 
