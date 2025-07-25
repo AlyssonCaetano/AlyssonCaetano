@@ -3,7 +3,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🚀 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
-- 🚀 &nbsp; Aprendendo constantemente.
+- 🚀 &nbsp; Aprendendo Fundamentos do Power BI
 - 👨🏻‍💻 &nbsp; Tive meu primeiro contato com linhas de código há 7  anos , quando estudava em um curso de Engenharia, e lá já achava fascinante. Há menos de dois anos decidi aprender como esse mundo funciona e me identifiquei. Desde então, eu decidi que eu queria fazer isso da minha vida.
   
 - ## Conecte-se comigo
