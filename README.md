@@ -8,7 +8,7 @@
   
 - ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-c-6153b5202)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alysson-c-6153b5202](https://www.linkedin.com/in/alysson-caetano-6153b5202/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProgCaetano)
 [![Site](https://img.shields.io/badge/Site-100000?style=for-the-badge&logo=site&logoColor=white)](https://teste-vercel-gamma-flame.vercel.app/index.html)
 
