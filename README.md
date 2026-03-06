@@ -1,121 +1,47 @@
-<h1>👋 &nbsp;Olá, eu sou Alysson! </h1>
+# Olá, eu sou Alysson Caetano! 👋
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+### 🚀 Desenvolvedor Full Stack | Especialista em Automação & IA | Mestre e Doutorando
 
-- 🚀 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
-- 🚀 &nbsp; Aprendendo Análise de Dados e Fundamentos do Power BI
-- 👨🏻‍💻 &nbsp; Tive meu primeiro contato com linhas de código há 7  anos , quando estudava em um curso de Engenharia, e lá já achava fascinante. Há menos de dois anos decidi aprender como esse mundo funciona e me identifiquei. Desde então, eu decidi que eu queria fazer isso da minha vida.
-  
-- ## Conecte-se comigo
+[cite_start]Atualmente atuo como **Programador de Sistemas** no **Banese Labes**, onde foco no desenvolvimento de soluções tecnológicas utilizando **Python (FastAPI)**, **JavaScript** e **Agentes de IA**[cite: 497, 501, 568]. [cite_start]Minha trajetória une o rigor científico da Engenharia de Alimentos (UFS) com a paixão pela análise de dados e desenvolvimento de software[cite: 553, 565, 594].
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-caetano-6153b5202/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProgCaetano)
-[![Site](https://img.shields.io/badge/Site-100000?style=for-the-badge&logo=site&logoColor=white)](https://teste-vercel-gamma-flame.vercel.app/index.html)
+---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ No que estou trabalhando:
+- [cite_start]🤖 **Agentes de IA & RAG:** Construindo arquiteturas de Recuperação Aumentada por Geração com FastAPI[cite: 501, 832].
+- [cite_start]⚡ **Automação com n8n:** Criando fluxos inteligentes para otimização de processos e controle financeiro[cite: 492, 568, 785].
+- [cite_start]🌐 **Ecossistema Web:** Desenvolvendo interfaces modernas e responsivas com **React** e **TypeScript**[cite: 493, 577, 842].
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="nodejs" 
-    title="nodejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+### 💻 Minha Stack Tecnológica:
 
-<br/>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | [cite_start]Python, JavaScript (ES6+), TypeScript, Java[cite: 493, 661, 662]. |
+| **Frameworks** | [cite_start]FastAPI, React, Node.js[cite: 491, 493, 840]. |
+| [cite_start]**Dados & Automação** | n8n, Microsoft Power BI, MySQL[cite: 485, 493, 650]. |
+| **Ferramentas** | [cite_start]Docker, Git/GitHub, Figma, Vercel[cite: 493, 574, 728]. |
 
-## Ferramentas
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+### 📊 Destaques do Repositório:
+- [cite_start]📂 **[rag-fastapi](https://github.com/AlyssonCaetano/rag-fastapi):** Implementação de IA com foco em recuperação de documentos[cite: 740, 832].
+- [cite_start]📂 **[automacao-n8n](https://github.com/AlyssonCaetano/automacao-n8n):** Fluxos de automação para controle de pagamentos e processos[cite: 784, 785].
+- [cite_start]📂 **[Corfinho-Moedas-Java](https://github.com/AlyssonCaetano/Corfinho-Moedas-Java):** Sistema de conversão de câmbio multimoedas[cite: 636, 745, 888].
+- [cite_start]📂 **[To-do-List-React](https://github.com/AlyssonCaetano/To-do-List-React):** Aplicação interativa focada em produtividade e manipulação do DOM[cite: 644, 843].
 
-## GitHub Stats
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AlyssonCaetano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 🎓 Formação Acadêmica:
+- [cite_start]**Doutorado em Ciências** – Universidade Federal de Sergipe (UFS)[cite: 546].
+- [cite_start]**Análise e Desenvolvimento de Sistemas** – UNINTER (Em andamento)[cite: 548, 562].
+- [cite_start]**Mestrado & Bacharelado em Engenharia de Alimentos** – UFS[cite: 551, 553].
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonCaetano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+### 📫 Vamos nos conectar?
+- [cite_start]💼 [LinkedIn](https://www.linkedin.com/in/alysson-caetano-6153b5202)[cite: 477, 631].
+- [cite_start]📧 [E-mail](mailto:scaetano.alysson@gmail.com)[cite: 559, 629].
 
-
-
+---
+*"Transformando dados complexos em soluções inteligentes e código eficiente."* 🚀
