@@ -41,7 +41,7 @@ Atualmente atuo como **Programador de Sistemas** no **Banese Labes**, onde foco 
 
 ### 📫 Vamos nos conectar?
 - 💼 [LinkedIn](https://www.linkedin.com/in/alysson-caetano-6153b5202)
-- 📧 [E-mail](mailto:scaetano.alysson@gmail.com)
+
 
 ---
 *"Transformando dados complexos em soluções inteligentes e código eficiente."* 🚀
