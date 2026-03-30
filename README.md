@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor Full Stack | Especialista em Automação & IA | Dr em Ciências | Engenheiro.
 
-Atualmente atuo como **Programador de Sistemas** no **Banese Labes**, onde foco no desenvolvimento de soluções tecnológicas utilizando **Python (FastAPI)**, **JavaScript** e **Agentes de IA**. Minha trajetória une o rigor científico da Engenharia de Alimentos (UFS) com a paixão pela análise de dados e desenvolvimento de software.
+Atualmente atuo como **Programador de Sistemas** no **Banese Labes**, onde foco no desenvolvimento de soluções tecnológicas utilizando **Python (FastAPI)**, **JavaScript** e **Agentes de IA**. 
 
 ---
 
