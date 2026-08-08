@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor de Software | React, TypeScript & Micro Frontends | Programador de Sistemas
 
-Atualmente atuo como **Programador de Sistemas** no **Banese Labes**, focado na arquitetura e desenvolvimento de aplicações web escaláveis com **React**, **TypeScript** e **Module Federation (Micro Frontends)**, além de criar soluções de automação e integração de APIs.
+Atualmente atuo como **Programador de Sistemas** , focado na arquitetura e desenvolvimento de aplicações web escaláveis com **React**, **TypeScript** e **Module Federation (Micro Frontends)**, além de criar soluções de automação e integração de APIs.
 
 ---
 
